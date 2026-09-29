@@ -153,3 +153,13 @@ https://github.com/wgekko/app-analisis-presupuesto.git
 
 
 Video demo
+
+
+
+
+
+https://github.com/user-attachments/assets/05d2d6c4-5396-44bc-8e58-5adb8dc6fc2a
+
+
+
+
