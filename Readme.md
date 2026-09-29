@@ -148,5 +148,8 @@ font = "sans serif"
 ├── logs/                   # Archivos de auditoría y errores.
 └── assets/                 # CSS custom, logos, íconos.
 
+para clonar el proyecto 
+https://github.com/wgekko/app-analisis-presupuesto.git
+
 
 Video demo
