@@ -67,6 +67,22 @@ Gestión robusta del almacenamiento relacional mediante SQLAlchemy sobre SQLite:
 
 ***Análisis Dinámico Interactivo:** Manipulación tabular de alta velocidad y gráficos jerárquicos que permiten aislar costos por proyecto, categoría o rango temporal con precisión milimétrica.
 
+si desea tener la misma configuración de esta app
+debe generar una carpeta .streamlit 
+archivo config.toml
+
+----
+[server]
+enableStaticServing = false
+
+[theme]
+primaryColor = "#FF8C00"
+backgroundColor = "#0D1B2A"
+secondaryBackgroundColor = "#1B263B"
+textColor = "#FFA500"
+font = "sans serif"
+---------
+
 
  APP DE PRESUPUESTO INMOBILIARIO/
 │
